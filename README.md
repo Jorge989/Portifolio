@@ -13,5 +13,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 
 <h1 align="center">
-  <img alt="Portifolio Jorge" title="#Portifolio Jorge" src="./assets/jj.png" />
+  <img alt="Portifolio Jorge" title="#Portifolio Jorge" src="../../assets/jj.png" />
 </h1>
