@@ -1,6 +1,5 @@
 import { useState } from "react";
-import Project1 from "../../assets/projects1.jpg";
-import Project2 from "../../assets/rock.png";
+
 // import "./App.css";
 import "../../css/main.css";
 function Projects() {
@@ -20,11 +19,11 @@ function Projects() {
         <nav>
           <input type="checkbox" id="check" />
           <label for="check" class="checkbtn">
-            <a onClick={toggleMenu}>
+            <a href="#!" onClick={toggleMenu}>
               {show ? (
                 <i class="fa fa-bars"></i>
               ) : (
-                <a>
+                <a href="#!">
                   <i class="fa fa-times"></i>
                 </a>
               )}

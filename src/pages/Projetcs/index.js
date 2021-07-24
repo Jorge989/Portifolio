@@ -24,11 +24,11 @@ function Projects() {
         <nav>
           <input type="checkbox" id="check" />
           <label for="check" class="checkbtn">
-            <a onClick={toggleMenu}>
+            <a href="#!" onClick={toggleMenu}>
               {show ? (
                 <i class="fa fa-bars"></i>
               ) : (
-                <a>
+                <a href="#!">
                   <i class="fa fa-times"></i>
                 </a>
               )}

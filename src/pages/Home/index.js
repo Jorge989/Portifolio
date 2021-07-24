@@ -18,11 +18,11 @@ function Home() {
         <nav>
           <input type="checkbox" id="check" />
           <label for="check" class="checkbtn">
-            <a onClick={toggleMenu}>
+            <a href="#!" onClick={toggleMenu}>
               {!show ? (
                 <i class="fa fa-bars"></i>
               ) : (
-                <a>
+                <a href="#!">
                   <i class="fa fa-times"></i>
                 </a>
               )}
@@ -31,7 +31,7 @@ function Home() {
 
           <ul>
             <li>
-              <a href="#">Home</a>
+              <a href="#!">Home</a>
             </li>
             <li>
               <a href="/about">Sobre</a>

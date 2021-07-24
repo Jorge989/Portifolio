@@ -18,11 +18,11 @@ function About() {
         <nav>
           <input type="checkbox" id="check" />
           <label for="check" class="checkbtn">
-            <a hrf="#" onClick={toggleMenu}>
+            <a href="#!" onClick={toggleMenu}>
               {show ? (
                 <i class="fa fa-bars"></i>
               ) : (
-                <a href="#">
+                <a href="#!">
                   <i class="fa fa-times"></i>
                 </a>
               )}
