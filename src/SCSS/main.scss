@@ -90,7 +90,9 @@ main {
     }
   }
 }
-
+#full-stack {
+  font-size: 35px;
+}
 footer {
   font-size: 1rem;
   position: fixed;
@@ -299,7 +301,7 @@ footer {
         rgba($primary-color, 0.6),
         rgba($primary-color, 0.3)
       ),
-      url("../assets/model-4.jpg") center top;
+      url("../assets/model-2.jpg") center top;
 
     background-size: cover;
     display: flex;

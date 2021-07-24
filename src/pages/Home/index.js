@@ -51,7 +51,7 @@ function Home() {
           <h1 class="home__name">
             Jorge Luis<span class="home__name--last"> Attie</span>
           </h1>
-          <h2>Full stack Developer Programmer</h2>
+          <h2 id="full-stack">Full stack Developer Programmer</h2>
           <div class="social-icons">
             <a href="#!">
               <i class="fab fa-github fa 2x"></i>

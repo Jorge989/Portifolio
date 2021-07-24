@@ -85,6 +85,10 @@ main .social-icons a:hover {
   font-weight: 700;
 }
 
+#full-stack {
+  font-size: 35px;
+}
+
 footer {
   font-size: 1rem;
   position: fixed;
@@ -364,8 +368,8 @@ footer {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.6)), to(rgba(39, 39, 39, 0.3))), url("../assets/model-4.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.6), rgba(39, 39, 39, 0.3)), url("../assets/model-4.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.6)), to(rgba(39, 39, 39, 0.3))), url("../assets/model-2.jpg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.6), rgba(39, 39, 39, 0.3)), url("../assets/model-2.jpg") center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
